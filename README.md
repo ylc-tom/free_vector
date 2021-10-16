@@ -1,4 +1,4 @@
-# free_vector
+# Free Vector <img src="https://github.com/ylc-tom/free_vector/blob/main/img/free_vector_logo.png" width="40px" />
 A vector based database &amp; search engine.
 
 ---
