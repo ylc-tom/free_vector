@@ -1,4 +1,4 @@
-package org.heystack.vector.dal;
+package org.heystack.dal;
 
 import com.google.common.base.Preconditions;
 import lombok.Data;
